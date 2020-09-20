@@ -14,7 +14,11 @@ My i3 config
 
 ## Localization
 
-for viewing amharic install `latin` type fonts or install `sudo pacman -R noto-fonts-cjk noto-fonts-emoji`
+for viewing amharic install `latin` type fonts or install 
+
+`noto-fonts`
+
+`sudo pacman -R noto-fonts-cjk noto-fonts-emoji`
 
 for writing Amharic install `ibus` and `ibus-m17n``
 
